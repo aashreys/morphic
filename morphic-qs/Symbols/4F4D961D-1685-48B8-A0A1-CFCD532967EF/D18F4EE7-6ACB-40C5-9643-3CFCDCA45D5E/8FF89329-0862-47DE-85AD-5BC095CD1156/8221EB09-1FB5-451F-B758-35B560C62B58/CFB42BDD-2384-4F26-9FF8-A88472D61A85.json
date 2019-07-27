@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CFB42BDD-2384-4F26-9FF8-A88472D61A85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C38E238-5AC7-4C99-97C4-EF6C052446D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E3436B0-DD28-49B5-A234-FA59CBF93408",
+    "height": 72,
+    "width": 80,
+    "x": 172,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ui/qs-button-w-icon/light copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC6BE181-2D78-42F9-B358-9DDF82FEB30D",
+      "overrideName": "CB6674C9-75DB-42EA-BE1C-018B79ADED6B_stringValue",
+      "value": "Caption"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6424E149-4DF4-4285-A274-8FE23CF38CE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3DD5DD79-3ADB-41E6-AADF-B924028D91EC",
+  "verticalSpacing": 0
+}

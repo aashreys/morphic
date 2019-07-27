@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C70F7CB-96CC-41A9-8D22-E775DCBEB41D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 226,
+    "x": 23,
+    "y": 257
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/rectangle/small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "061AB4CA-4E7A-4877-B1D5-EEECBD814A3B",
+      "overrideName": "6517047B-7515-40E9-B318-E193394D8D83_stringValue",
+      "value": "Make COPY to PASTE into doc, email..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EC619C7-2A70-46CF-B261-9B9E610E9785",
+      "overrideName": "664C7258-2B5F-4A68-A0D0-E2693672AD95_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8EAAB03-293E-478E-B3F1-3C15A5D34CFD",
+  "verticalSpacing": 0
+}

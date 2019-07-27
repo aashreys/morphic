@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FEA2141A-CE51-4A7E-9F64-356C85943AB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 375,
+    "width": 272,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FE90278B-9664-47D1-A4AB-6678D279F127"
+    },
+    {
+      "class": "group",
+      "id": "EF46FB04-8D75-499C-97FF-62E2419BFF56"
+    },
+    {
+      "class": "text",
+      "id": "080D0771-2B89-4912-A259-B2176864FADB"
+    },
+    {
+      "class": "text",
+      "id": "56838F2A-9FF4-4458-A5C1-29C93DD37118"
+    },
+    {
+      "class": "text",
+      "id": "A1B950E6-F74E-4A8D-976A-1F97B8E38D40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFF5D34D-CDF6-4703-A817-37116A92C532"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF24610E-5F37-4903-B88D-9629DF1A7E05"
+    },
+    {
+      "class": "text",
+      "id": "27C024E3-B0EE-4A7F-B2E3-88034EEE743B"
+    },
+    {
+      "class": "text",
+      "id": "5D518A8B-5A13-4C96-9AC1-CC64B1C3ED06"
+    },
+    {
+      "class": "text",
+      "id": "C792826B-14B8-436C-9BB2-AE5DF471207C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C70F7CB-96CC-41A9-8D22-E775DCBEB41D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2240E67-EF98-4FD2-B61D-E8E515AC77C4"
+    },
+    {
+      "class": "text",
+      "id": "D8E76884-BD8B-4788-B626-7F75B2E9C104"
+    }
+  ],
+  "name": "panels/screen capture",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

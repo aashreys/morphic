@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7093AAB-1416-44A1-9C37-46DD03846C12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "730566F2-5909-4063-A7AD-258D3D86EBD1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE23C9DE-3A22-4F1F-9DFB-363F3743EA60",
+    "height": 375,
+    "width": 272.1416666666667,
+    "x": 0,
+    "y": 51
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "panels/language/v2 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A52BA57-4093-4A3D-A83F-E762DE19E97A",
+      "overrideName": "757D4010-32A0-4270-A5AB-557692D2B38E_stringValue",
+      "value": "Change the language of Windows"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25116D0F-412A-463E-821A-5CEF37D7BA1D",
+      "overrideName": "271EF7C6-C93C-4AC3-A80B-65B05B6EC916_stringValue",
+      "value": "Also works for apps that support Windows language settings. "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EC74767-31F0-478D-B7AD-00191168434C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DF8DD9A6-0CF4-45AF-B0A4-D786E1D842B1",
+  "verticalSpacing": 0
+}

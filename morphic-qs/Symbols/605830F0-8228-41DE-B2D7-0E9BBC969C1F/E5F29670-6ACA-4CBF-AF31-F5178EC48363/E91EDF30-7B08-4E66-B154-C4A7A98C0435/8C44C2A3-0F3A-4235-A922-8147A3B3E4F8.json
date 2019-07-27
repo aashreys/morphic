@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C44C2A3-0F3A-4235-A922-8147A3B3E4F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB611E94-3615-4A4B-9034-BEA3BFA46EE5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3950EC72-04EC-4408-B2B3-D9A89C97470A",
+    "height": 30,
+    "width": 142,
+    "x": 8,
+    "y": 8
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/rect/large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3574E0D-61C1-4178-8A90-748B5AEE3A2F",
+      "overrideName": "CEFB8BA2-289E-42A6-8A47-DA18372CE382_stringValue",
+      "value": "Quick Mail"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEC099C8-165B-47CF-9CE5-4E76BED8CC4B",
+      "overrideName": "F9377067-636F-44C0-BCDC-A48682299176_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E0643E4-BDE3-4F07-AF60-8E6C408CBCAA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2293F8A7-BC04-4148-8B8F-224BE33A7295",
+  "verticalSpacing": 0
+}

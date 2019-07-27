@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA899239-0B34-4E8A-A8B0-6C9F1D926632",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04E9A7D2-7017-4EC5-9C26-E22504E7AA30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A93B76B-C30C-46D1-B2E9-E1AE2C263809",
+    "height": 30,
+    "width": 142,
+    "x": 8,
+    "y": 246
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/rect/large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CEFB8BA2-289E-42A6-8A47-DA18372CE382_stringValue",
+      "value": "Open USB Drive"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9377067-636F-44C0-BCDC-A48682299176_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75478FDC-BF44-4A0D-948C-A42D1FADDFE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2293F8A7-BC04-4148-8B8F-224BE33A7295",
+  "verticalSpacing": 0
+}

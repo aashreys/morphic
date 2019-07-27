@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC5E89CA-4A83-4D7C-B5A4-D934C26AF896",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8596D7FA-20E6-437F-8D15-CC869CC0A0B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55E60471-5AE7-43CE-ACB0-293D27A67E89",
+    "height": 72,
+    "width": 80,
+    "x": 0,
+    "y": 468
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ui/qs-button-w-icon/light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1597C0E1-06DD-41A0-8F9C-D60DA3F9B60E",
+      "overrideName": "CB6674C9-75DB-42EA-BE1C-018B79ADED6B_stringValue",
+      "value": "Set Desktop Picture"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA482640-F9C7-4F36-8405-176CC8BE961D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3DD5DD79-3ADB-41E6-AADF-B924028D91EC",
+  "verticalSpacing": 0
+}

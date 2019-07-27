@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.09440104166666667,
+    "do_objectID": "BE75E8C9-BB06-498D-AA5D-F07022A44FA1",
+    "green": 0.09440104166666667,
+    "red": 0.09440104166666667
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "475B4DE9-B620-4CFC-9069-3881255C9098",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E98DFC00-A581-4213-B2B0-EBC89D9C786C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0B6AFEF-CC92-4958-B8B0-6FD678493D5E",
+    "height": 1080,
+    "width": 1920,
+    "x": 1824,
+    "y": 1218
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "07CC7450-3363-4D52-9BEF-9124361EDDC9"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "63349982-85E6-47A0-8DEE-D8BCE913CA64",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "249BFD44-DE46-4CE5-8918-BF40102F5B2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC4731C6-690F-4095-8BE5-4F2C3CAD172C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F61992D5-2740-414F-805E-8B464849FD31"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 95,
+    "do_objectID": "301973A2-312D-4FBB-8AD6-CD6AF3C0CD01",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 60,
+    "guttersOutside": true,
+    "horizontalOffset": 30,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1860
+  },
+  "name": "More Panel - Vertical Compressed",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02FAF6EF-CDD3-4C91-BF82-D474FA187413",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D4AD86C0-F45F-4707-BB87-49626E8E1FBB",
+    "guides": [
+    ]
+  }
+}

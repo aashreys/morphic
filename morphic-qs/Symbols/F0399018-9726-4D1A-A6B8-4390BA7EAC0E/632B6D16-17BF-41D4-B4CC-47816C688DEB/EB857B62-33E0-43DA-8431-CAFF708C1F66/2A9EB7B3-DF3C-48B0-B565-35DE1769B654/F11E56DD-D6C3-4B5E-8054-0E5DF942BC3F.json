@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F11E56DD-D6C3-4B5E-8054-0E5DF942BC3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3913F94C-BCCF-49CE-A464-8B83EC7E6E1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55AE8436-0ECF-45AB-A64B-249805440482",
+    "height": 72,
+    "width": 80,
+    "x": 0,
+    "y": 312
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ui/qs-button-w-icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9468FDE2-8C33-41B0-9567-6B6020D50AB8",
+      "overrideName": "CB6674C9-75DB-42EA-BE1C-018B79ADED6B_stringValue",
+      "value": "Simplify Word & Excel"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF00E3D5-514D-4E9F-B7A6-7E2098B8F7A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3DD5DD79-3ADB-41E6-AADF-B924028D91EC",
+  "verticalSpacing": 0
+}

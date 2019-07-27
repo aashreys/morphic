@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "781639DD-EE67-4798-B47B-C4D3E1E763FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 102,
+    "x": 33,
+    "y": 34
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6A472C45-CC9A-4462-9844-4F1F71669F16"
+    },
+    {
+      "class": "text",
+      "id": "B17E4A8F-8927-41BA-93DE-F705DA267C0A"
+    },
+    {
+      "class": "text",
+      "id": "B04348E2-F8E0-40FA-9F7A-47413E262348"
+    },
+    {
+      "class": "text",
+      "id": "B90DF077-8299-4ED4-B8A5-090BF4D0C73F"
+    },
+    {
+      "class": "text",
+      "id": "E4F56FD9-13B9-420A-9D65-BA9BB9651FA7"
+    },
+    {
+      "class": "text",
+      "id": "944989E2-C3C0-4F2E-B7E0-CAAC0AB17CC2"
+    },
+    {
+      "class": "text",
+      "id": "D1C43018-0409-4CFD-AE52-3D22F1A43300"
+    },
+    {
+      "class": "text",
+      "id": "71366A1E-1430-46DA-ACAB-4D5A53F24ADA"
+    },
+    {
+      "class": "text",
+      "id": "28D79AC8-992B-446C-8EF8-E8B6E3A298EF"
+    },
+    {
+      "class": "text",
+      "id": "26474842-5306-4B71-A768-AC5C56FBA4E6"
+    },
+    {
+      "class": "text",
+      "id": "BDAFA250-B880-492D-8A2F-8ED2AC3B221B"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.9000000357627869
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

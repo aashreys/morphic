@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.09440104166666667,
+    "do_objectID": "12E6D6C7-C024-4E51-9A16-5BBC2FDEABD1",
+    "green": 0.09440104166666667,
+    "red": 0.09440104166666667
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F233D10-89F0-48C1-AD7B-C00FD461F37C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93DDD9F2-75A2-448B-BFAC-E8A67303711D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DCAB80C-045F-4C3D-BCF6-CC1B6125404A",
+    "height": 1080,
+    "width": 1920,
+    "x": -2462,
+    "y": -1368
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "89CE7BF6-2F21-48F5-AB89-B2D79A6B0FDA"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -1,
+    "do_objectID": "48AC7F81-A954-4592-B7F0-C29F5968DC07",
+    "guides": [
+      715,
+      1689,
+      1007
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FCD7CE89-65FD-4F85-A7DB-81775AAA3265"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C081BD3-0CC8-4CEF-B2AE-6922BE419D86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DEBD08B-931A-43E9-9561-8E8691A5B423"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 95,
+    "do_objectID": "2C580736-7310-4AD3-96A6-942BC3D66708",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 60,
+    "guttersOutside": true,
+    "horizontalOffset": 30,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1860
+  },
+  "name": "Button Panel - Horizontal",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FC90235-AA0E-47D3-96BD-3AC0305AA79C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0ED4C11E-CBAB-4FB4-9FB0-252B2C36416D",
+    "guides": [
+    ]
+  }
+}

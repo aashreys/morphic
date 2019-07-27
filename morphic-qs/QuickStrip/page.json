@@ -1,0 +1,126 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3B05D51-A521-4D20-A805-92D35CD94F93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "475B4DE9-B620-4CFC-9069-3881255C9098"
+    },
+    {
+      "class": "artboard",
+      "id": "1B7E0DA7-5443-4026-A457-6DB0C0EB07D7"
+    },
+    {
+      "class": "artboard",
+      "id": "398D9216-23FB-449C-98A2-71B384183D33"
+    },
+    {
+      "class": "artboard",
+      "id": "30A040CA-47D1-4AD0-BC8A-7846C524E967"
+    },
+    {
+      "class": "artboard",
+      "id": "F4904547-DDB6-41C2-847F-93183BC335AB"
+    },
+    {
+      "class": "artboard",
+      "id": "5B841978-9FCD-485E-8DA6-DB46EF5B73C6"
+    },
+    {
+      "class": "artboard",
+      "id": "7D7E1264-0F36-4546-B1B6-1F39377022C0"
+    },
+    {
+      "class": "artboard",
+      "id": "9596AEE2-61FE-4F99-B293-E189347CAEC4"
+    },
+    {
+      "class": "artboard",
+      "id": "79F0DDE7-AC6E-45AB-84B9-01FEE5F37C08"
+    },
+    {
+      "class": "artboard",
+      "id": "D8963C4A-2EC8-491D-8D6A-DE6E8E6A7F78"
+    },
+    {
+      "class": "artboard",
+      "id": "CEFC2FD9-DEC5-424D-9F62-7096BB045483"
+    },
+    {
+      "class": "artboard",
+      "id": "F4865B20-9395-4660-AF03-50E16B581E12"
+    },
+    {
+      "class": "artboard",
+      "id": "39EC447C-BA14-44EC-81CB-B8BDD53C2BCA"
+    },
+    {
+      "class": "artboard",
+      "id": "9F233D10-89F0-48C1-AD7B-C00FD461F37C"
+    },
+    {
+      "class": "artboard",
+      "id": "3B9E94BD-BE9B-46FB-A2ED-E7CD030A8553"
+    },
+    {
+      "class": "artboard",
+      "id": "ACF4666F-A516-4023-9BD8-FA9BC11B8C8D"
+    }
+  ],
+  "name": "QuickStrip",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

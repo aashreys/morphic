@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1B1D091-A757-4849-857B-8A278F575937",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A271C09-09AA-4189-A772-D452765C1F1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C69B4BC-7A9C-4265-82E5-12CB296FB1AE",
+    "height": 72,
+    "width": 80,
+    "x": 0,
+    "y": 546
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ui/qs-button-w-icon copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6C42E4A-3FD2-4A92-99D3-3E9A8AA34D06",
+      "overrideName": "CB6674C9-75DB-42EA-BE1C-018B79ADED6B_stringValue",
+      "value": "More & Help"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9E9E9E5-2E57-4922-87B8-D86BA9E1C2F2",
+      "overrideName": "7FA7483C-E4E7-427A-AB46-34FEFA52ABE5_layerStyle",
+      "value": "B27A6204-2267-4346-94A6-6AAB2F7F4FC1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "364C3B2F-E8E7-4533-A64E-46B3BAE29F5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3DD5DD79-3ADB-41E6-AADF-B924028D91EC",
+  "verticalSpacing": 0
+}

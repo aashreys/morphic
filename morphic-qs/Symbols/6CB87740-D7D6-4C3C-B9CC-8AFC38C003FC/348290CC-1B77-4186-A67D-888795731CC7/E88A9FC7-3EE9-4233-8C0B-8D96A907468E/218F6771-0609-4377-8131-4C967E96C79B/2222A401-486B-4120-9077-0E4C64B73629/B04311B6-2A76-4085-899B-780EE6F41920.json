@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B04311B6-2A76-4085-899B-780EE6F41920",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "586EB65F-CA5B-47D2-BB39-7EA1931FB4B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48DC8B96-CE0B-4899-908B-9828933E39C9",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logos/morphic/black",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.043478260869565,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7A5C498E-3E48-4C21-B4A8-E7D1F31C9E72",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.43478260869565,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8C31345F-B094-47AE-A691-12C67DD8EDC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "51F06245-9DA1-45FF-A99D-D2642F8E62AC",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "28A36405-B421-4419-BC40-F6EF56136DCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55B65858-F494-4BD9-98B1-FF5CD4EF5284",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26FDD5A2-0E31-400C-8E9F-273F299823B9",
+    "height": 375,
+    "width": 272,
+    "x": 1469,
+    "y": 565
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "panels/language/v2 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A52BA57-4093-4A3D-A83F-E762DE19E97A",
+      "overrideName": "757D4010-32A0-4270-A5AB-557692D2B38E_stringValue",
+      "value": "Change the language of Windows"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25116D0F-412A-463E-821A-5CEF37D7BA1D",
+      "overrideName": "271EF7C6-C93C-4AC3-A80B-65B05B6EC916_stringValue",
+      "value": "Also works for apps that support Windows language settings. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FA8BDED-3C2C-48AB-A1C1-0554EDC977F4",
+      "overrideName": "DE4793C6-2AD1-4A53-97EB-41676ACE9FE4_symbolID",
+      "value": "8C34AA1E-D8FA-47CB-B6E1-D8BA40C503F2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1102D18-F77C-4ADD-87A2-0BF7DDDC0887",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DF8DD9A6-0CF4-45AF-B0A4-D786E1D842B1",
+  "verticalSpacing": 0
+}

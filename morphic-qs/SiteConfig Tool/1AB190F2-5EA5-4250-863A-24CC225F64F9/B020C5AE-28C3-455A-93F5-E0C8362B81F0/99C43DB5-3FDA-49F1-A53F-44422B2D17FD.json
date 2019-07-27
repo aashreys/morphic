@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99C43DB5-3FDA-49F1-A53F-44422B2D17FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4E1CBA2-A6BE-45EA-98C9-F536BF68DA7E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "329025DB-0568-486A-AE80-BDB88E97DAF3",
+    "height": 30,
+    "width": 212,
+    "x": 465,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/rectangle/title-right-icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A29D8D96-9C8D-4028-8DCC-2FB02ECC8644",
+      "overrideName": "CEFB8BA2-289E-42A6-8A47-DA18372CE382_stringValue",
+      "value": "Upload Current SiteConfig File"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "862DF520-86AB-497B-8A59-C25C02D9300A",
+      "overrideName": "F9377067-636F-44C0-BCDC-A48682299176_symbolID",
+      "value": "D8ED9DC2-615B-4605-8F8F-66B47FCA1849"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97BFD96E-17A3-44E2-B826-FB3D0BAE795A",
+      "overrideName": "7CE576C2-750A-49EF-89C3-52D6071D7F5F_layerStyle",
+      "value": "B27A6204-2267-4346-94A6-6AAB2F7F4FC1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A20CB8D7-33E4-4AA6-BDC4-ED3EDAC4C2E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2293F8A7-BC04-4148-8B8F-224BE33A7295",
+  "verticalSpacing": 0
+}

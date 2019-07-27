@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47EBB5E3-7386-4B2F-BC26-CEF145AC9CF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F4F5485-1058-498B-8A90-58AD13AE2548",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82007D0C-BD5F-4EBE-B274-EE2A7C362678",
+    "height": 23,
+    "width": 80,
+    "x": 0,
+    "y": 326
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "78A30F60-B98A-4445-874E-1801616276F3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ABBE6B7C-98BB-4098-B50D-8A868F58A9AA"
+    },
+    {
+      "class": "group",
+      "id": "B584C711-7E7C-466E-866C-05DB729D3D14"
+    }
+  ],
+  "name": "buttons/sign-in-pill copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF7BAFE9-55F0-4309-B0F7-A8A9FD78F709",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0628A925-0574-46D6-9556-4AA644DF7801",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 102,
+    "x": 163,
+    "y": 34
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "03E94581-A6BF-414F-9C0B-7B2FB0A4A622"
+    },
+    {
+      "class": "text",
+      "id": "41F79FAC-D2D9-4D91-A980-34EEF98F8F7B"
+    },
+    {
+      "class": "text",
+      "id": "A6580B8E-F4B2-4DD7-8020-3277975A146E"
+    },
+    {
+      "class": "text",
+      "id": "EC14AD76-81EE-4A22-B791-0288DBAA5FC8"
+    },
+    {
+      "class": "text",
+      "id": "5EED91BE-3504-4CE8-A3AD-59FD829ABD47"
+    },
+    {
+      "class": "text",
+      "id": "578B9236-6D1C-4DB3-ADE0-200E81F338CC"
+    },
+    {
+      "class": "text",
+      "id": "DD31E17A-570E-4E09-8088-952ADFF1946F"
+    },
+    {
+      "class": "text",
+      "id": "5018C7A5-21D1-4CAE-9C3E-7396CDAC8458"
+    },
+    {
+      "class": "text",
+      "id": "2E01A7BE-0071-4859-8CA6-F276A48563C4"
+    },
+    {
+      "class": "text",
+      "id": "71621760-3C41-4F68-BC83-64A944D65851"
+    },
+    {
+      "class": "text",
+      "id": "11F222F6-CEDD-446F-B2C8-24542F7828DD"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.9000000357627869
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

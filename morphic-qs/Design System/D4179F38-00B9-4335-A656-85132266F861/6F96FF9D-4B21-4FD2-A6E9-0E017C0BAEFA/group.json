@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F96FF9D-4B21-4FD2-A6E9-0E017C0BAEFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EE11CEE-95C7-4CA1-A420-21DB4392B38B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B46C05C-7529-489A-ADED-F0139D173304",
+    "height": 37,
+    "width": 679,
+    "x": 48,
+    "y": 215
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A6E512EB-11FE-47F1-9C06-EF06FD063439"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E37CF5DE-574A-44FB-A258-E08919A527C7"
+    },
+    {
+      "class": "text",
+      "id": "3C40BEF7-D01A-4AAA-99A1-2469CEEF90DC"
+    },
+    {
+      "class": "text",
+      "id": "6CE36A56-32C4-4861-833A-79F51080F22B"
+    },
+    {
+      "class": "text",
+      "id": "3EC2A691-4258-4EED-BCAE-5ECAFDA73F70"
+    },
+    {
+      "class": "text",
+      "id": "FABF4C0D-EC33-4DA4-9E53-6167C35BFE56"
+    },
+    {
+      "class": "text",
+      "id": "8802C9B0-B8E9-401E-A204-FD4F3CD55913"
+    },
+    {
+      "class": "text",
+      "id": "47DFBC89-D50E-417D-9F78-3DFC972E166D"
+    },
+    {
+      "class": "rectangle",
+      "id": "DB44EEE3-9B13-4998-9DE1-708312776132"
+    }
+  ],
+  "name": "Group Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.9000000357627869
+    },
+    "do_objectID": "38DD3706-2CC8-42FD-BCA8-9F27CE9FC60B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

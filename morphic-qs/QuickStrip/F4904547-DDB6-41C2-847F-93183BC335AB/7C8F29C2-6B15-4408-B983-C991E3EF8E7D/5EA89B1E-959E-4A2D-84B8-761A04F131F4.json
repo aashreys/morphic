@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5EA89B1E-959E-4A2D-84B8-761A04F131F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A29D051-3EA6-40D6-93EF-2B0DF2C61A39",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7FBAA300-FD93-40FA-B3EE-1F26AEFADA8B",
+    "height": 36,
+    "width": 176,
+    "x": 0,
+    "y": 270
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/square/title-only copy 15",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18117D6E-A294-426E-AC52-09D6BC743C4A",
+      "overrideName": "F6C9FBE5-2B3F-486B-A340-724A1DFE5594_stringValue",
+      "value": "Rearrange Buttons"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D555F3A-9998-4700-8BF8-43CDAE362345",
+      "overrideName": "558E1C49-4D0F-4F02-9D7C-69F099501AB3_layerStyle",
+      "value": "D6CF61D4-4032-482C-9119-90E729A797E6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2C33DFD-F9FB-4225-96E4-7345E3E22CDF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B3191C0-06C8-4BE2-90D0-0689D45648D4",
+  "verticalSpacing": 0
+}

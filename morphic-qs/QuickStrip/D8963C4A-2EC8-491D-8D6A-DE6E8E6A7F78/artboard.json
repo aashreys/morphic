@@ -1,0 +1,122 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.09440104166666667,
+    "do_objectID": "5A3DC572-3D04-42B4-A40F-3DD539997FFC",
+    "green": 0.09440104166666667,
+    "red": 0.09440104166666667
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8963C4A-2EC8-491D-8D6A-DE6E8E6A7F78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5C92E5F-F9C1-48E7-A349-243B74B5FB1F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4AE51BF1-58AC-49F8-B035-E6598674A9ED",
+    "height": 1080,
+    "width": 1920,
+    "x": -319,
+    "y": -75
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "839A3CC9-57B4-4926-8E09-6142568DD254"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "38CD4ED1-565A-4958-91D0-E748523F55FB",
+    "guides": [
+      1288
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "63464730-DED5-4638-AC87-8860FA3215DA"
+    },
+    {
+      "class": "group",
+      "id": "9B3F882C-D53D-4CA8-A09B-DDC2BF99C4BC"
+    },
+    {
+      "class": "group",
+      "id": "4D51F128-0725-47DB-A312-28267C78C416"
+    },
+    {
+      "class": "group",
+      "id": "0F6231B9-3DD5-432B-8930-9E18CD39A4CF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 95,
+    "do_objectID": "E6E92A81-6108-46A4-B005-6FE17FCFABA4",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 60,
+    "guttersOutside": true,
+    "horizontalOffset": 30,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1860
+  },
+  "name": "Tooltips - Vertical",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36EBBE84-8C37-4012-B067-CAD06D373BC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D4EA55F1-A06B-467F-91FE-F5674631DB58",
+    "guides": [
+    ]
+  }
+}
