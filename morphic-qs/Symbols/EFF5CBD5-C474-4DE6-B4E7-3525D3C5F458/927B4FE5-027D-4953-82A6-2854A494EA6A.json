@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "927B4FE5-027D-4953-82A6-2854A494EA6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6481AA52-E73C-45AA-845A-6F3215A0AF80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "931BCD1B-DD0D-42D2-A644-3AADAD7C2620",
+    "height": 6,
+    "width": 6,
+    "x": 55,
+    "y": 4
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/green-circle",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00676CDE-BB58-4CFB-9E06-9F923B62AB90",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7BB8A441-6A10-4201-AFB3-61A1004B3B83",
+  "verticalSpacing": 0
+}

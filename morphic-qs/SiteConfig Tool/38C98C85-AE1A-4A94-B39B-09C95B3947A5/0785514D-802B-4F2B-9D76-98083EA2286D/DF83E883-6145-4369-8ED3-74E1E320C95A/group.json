@@ -20,7 +20,7 @@
     "height": 64,
     "width": 677,
     "x": 0,
-    "y": 452
+    "y": 630
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -36,8 +36,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "B433C1B4-E859-488C-A168-E61D4D365CC4"
+      "class": "symbolInstance",
+      "id": "CB12F428-42BD-49F3-A1CD-7913F2516385"
     },
     {
       "class": "text",
@@ -54,7 +54,7 @@
   ],
   "name": "Group 2",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

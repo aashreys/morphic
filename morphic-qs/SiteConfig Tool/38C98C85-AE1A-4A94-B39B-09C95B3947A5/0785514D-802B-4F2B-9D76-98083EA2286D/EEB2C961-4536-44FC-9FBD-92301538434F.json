@@ -56,7 +56,7 @@
     "height": 28,
     "width": 298,
     "x": 1,
-    "y": 0
+    "y": 14
   },
   "glyphBounds": "{{1, 5}, {296, 23}}",
   "hasClippingMask": false,
@@ -110,5 +110,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

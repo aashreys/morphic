@@ -20,7 +20,7 @@
     "height": 64,
     "width": 561,
     "x": 0,
-    "y": 212
+    "y": 136
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -36,8 +36,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "C9268DBE-5B87-4B73-AC24-E86AEFF7C9AB"
+      "class": "symbolInstance",
+      "id": "1DF37FAD-D27B-4315-B359-A88A04A1E022"
     },
     {
       "class": "text",
@@ -54,7 +54,7 @@
   ],
   "name": "Group Copy",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

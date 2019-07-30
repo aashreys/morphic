@@ -19,9 +19,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8D0A7DD0-3812-4CC1-9BEF-ED87DD3295AA",
-    "height": 436,
+    "height": 1776,
     "width": 677,
-    "x": 1,
+    "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
@@ -78,7 +78,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

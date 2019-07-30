@@ -34,9 +34,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "67C4CE53-E98D-4541-9093-D7711517582D",
-    "height": 1080,
+    "height": 3491,
     "width": 1440,
-    "x": 1647,
+    "x": 1661,
     "y": 1080
   },
   "groupLayout": {
@@ -44,7 +44,7 @@
     "do_objectID": "99FDC1AA-E364-44E9-9168-027B191A1D03"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -125,7 +125,7 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

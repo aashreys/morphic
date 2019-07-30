@@ -52,8 +52,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 17,
-    "x": 3,
+    "width": 72,
+    "x": 4,
     "y": 3
   },
   "glyphBounds": "{{0, 3}, {16, 9}}",
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "200",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -105,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

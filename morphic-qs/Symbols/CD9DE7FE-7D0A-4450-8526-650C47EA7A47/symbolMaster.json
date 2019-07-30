@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 167,
+  "changeIdentifier": 222,
   "clippingMaskMode": 0,
   "do_objectID": "CD9DE7FE-7D0A-4450-8526-650C47EA7A47",
   "exportOptions": {
@@ -75,7 +75,7 @@
       "overrideName": "CB3C5BAE-14F4-4C89-8DC2-D5D35C1283DE_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

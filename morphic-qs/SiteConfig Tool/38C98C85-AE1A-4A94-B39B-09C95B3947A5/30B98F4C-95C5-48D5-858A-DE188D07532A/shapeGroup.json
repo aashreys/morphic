@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2D819C99-8791-44DB-9A02-A4938245DC72",
-    "height": 1400,
+    "height": 3179,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -46,7 +46,7 @@
   ],
   "name": "Combined Shape",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 23,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
