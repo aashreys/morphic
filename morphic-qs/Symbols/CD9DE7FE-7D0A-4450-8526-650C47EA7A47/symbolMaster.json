@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 222,
+  "changeIdentifier": 247,
   "clippingMaskMode": 0,
   "do_objectID": "CD9DE7FE-7D0A-4450-8526-650C47EA7A47",
   "exportOptions": {
@@ -58,21 +58,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "0CE03A35-262F-47B4-81FC-08787FE6F0FB"
-    },
-    {
-      "class": "text",
-      "id": "CB3C5BAE-14F4-4C89-8DC2-D5D35C1283DE"
+      "class": "symbolInstance",
+      "id": "9B8A0451-CB6A-478C-AD8D-9EDA6D98AE71"
     }
   ],
-  "name": "form/text-input/filled",
+  "name": "Form / Text Input / Filled",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CB3C5BAE-14F4-4C89-8DC2-D5D35C1283DE_stringValue"
+      "overrideName": "9B8A0451-CB6A-478C-AD8D-9EDA6D98AE71_symbolID"
     }
   ],
   "resizesContent": true,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 16,
+  "changeIdentifier": 590,
   "clippingMaskMode": 0,
   "do_objectID": "D9F87D65-B7D6-4470-98F3-DF610D16EEF1",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,20 +50,21 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "00C96B41-77C8-4DB6-AEC2-9E1AEC44BF16"
-    },
-    {
-      "class": "rectangle",
-      "id": "4CF64D37-E2AF-4A68-B813-6010779AF8E1"
+      "class": "symbolInstance",
+      "id": "7DA4F86E-B610-474B-85DC-D1BB154E82E2"
     }
   ],
-  "name": "form/text-input/focused",
-  "nameIsFixed": false,
+  "name": "Form / Text Input / Typing",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7DA4F86E-B610-474B-85DC-D1BB154E82E2_symbolID"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 15,
+  "changeIdentifier": 35,
   "clippingMaskMode": 0,
   "do_objectID": "67AEA7E0-29C3-4EE0-8A49-73C7BAD54682",
   "exportOptions": {
@@ -53,21 +53,27 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "401C10D8-5395-4EAE-ABF4-F5DF9961A2FD"
-    },
-    {
-      "class": "text",
-      "id": "6DF39314-236B-4175-85CF-5A0C7A85C1DF"
+      "class": "symbolInstance",
+      "id": "1BDF24E8-5F73-499D-9E61-854DC653004D"
     }
   ],
-  "name": "form/checkbox/unchecked",
-  "nameIsFixed": false,
+  "name": "Form / Checkbox / Unchecked",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "6DF39314-236B-4175-85CF-5A0C7A85C1DF_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1BDF24E8-5F73-499D-9E61-854DC653004D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F8465A5D-F744-4639-B926-823A4BC02A2B_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

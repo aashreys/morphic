@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 78,
+  "changeIdentifier": 91,
   "clippingMaskMode": 0,
   "do_objectID": "0A3646C5-2A44-4F43-A2F3-82D9496EBA9A",
   "exportOptions": {
@@ -58,26 +58,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "6F93C490-8E06-428B-9050-4A7B62CC780C"
-    },
-    {
-      "class": "group",
-      "id": "2283FB20-4A87-4F3D-8D72-0F1DFAF07B2D"
+      "class": "symbolInstance",
+      "id": "06543599-DA80-4E06-A8EA-96196F993C2E"
     }
   ],
-  "name": "form/checkbox/checked",
+  "name": "Form / Checkbox / Checked",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6F93C490-8E06-428B-9050-4A7B62CC780C_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6F93C490-8E06-428B-9050-4A7B62CC780C_stringValue"
+      "overrideName": "06543599-DA80-4E06-A8EA-96196F993C2E_symbolID"
     }
   ],
   "resizesContent": true,

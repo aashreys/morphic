@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 185,
+  "changeIdentifier": 680,
   "clippingMaskMode": 0,
   "do_objectID": "C6EB5747-3992-4ACA-B4FD-51D8C690AF93",
   "exportOptions": {
@@ -58,13 +58,38 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "68316350-DCE0-4F55-BB0A-877A51F0E80B"
+      "class": "symbolInstance",
+      "id": "688B4B29-4074-4D4C-BC0D-7FAAB2696547"
     }
   ],
-  "name": "form/text-input/empty",
+  "name": "Form / Text Input / Empty",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "688B4B29-4074-4D4C-BC0D-7FAAB2696547_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "68316350-DCE0-4F55-BB0A-877A51F0E80B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2267D98F-991C-4866-B464-D347998EA63D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D4A7FD13-4F0B-4E0B-917D-75E6C9FAC21A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D4A7FD13-4F0B-4E0B-917D-75E6C9FAC21A_textStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

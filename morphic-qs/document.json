@@ -134,14 +134,19 @@
     ]
   },
   "meta": {
-    "appVersion": "56.2",
-    "build": 81672,
+    "appVersion": "56.3",
+    "build": 81716,
     "version": 119
   },
   "pages": [
     "Design System",
     "QuickStrip",
-    "SiteConfig Tool",
+    "SiteConfig",
     "Symbols"
-  ]
+  ],
+  "userInfo": {
+    "contextPlugin": {
+      "openPanelOnPinSelection": 1
+    }
+  }
 }

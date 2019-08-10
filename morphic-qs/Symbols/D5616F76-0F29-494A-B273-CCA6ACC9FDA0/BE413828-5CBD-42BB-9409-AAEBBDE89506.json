@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "#showQssOnStart"
+    "string": "showQssOnStart"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "1A25135C-B8A5-4DBF-A4E0-94781C79D391",
     "height": 14,
-    "width": 83,
-    "x": 0,
+    "width": 110,
+    "x": 69,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {83, 10}}",
+  "glyphBounds": "{{0, 3}, {77, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

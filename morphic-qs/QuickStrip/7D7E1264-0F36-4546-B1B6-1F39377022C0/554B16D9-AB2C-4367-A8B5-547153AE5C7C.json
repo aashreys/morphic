@@ -36,6 +36,18 @@
       "do_objectID": "363CA750-910F-4452-9EFA-75C59CEA18AC",
       "overrideName": "5A507E72-E3AF-46A1-A108-45E11507DEE6_symbolID",
       "value": "636DDC37-7CC9-4A4B-8D39-B9A8880C48D0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05457A85-9769-4F46-9B66-F6CC1F9F0D94",
+      "overrideName": "954035DA-81A7-4A34-9547-5E163FFB52B6_stringValue",
+      "value": "Read More Help Topics"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7FFAF2C1-7E03-45C5-9CA5-B92860AE8CD8",
+      "overrideName": "C02F6D5C-6705-4FE9-B33B-35A5357D9D1D_stringValue",
+      "value": "What is Morphic?\nHow do I use the Morphic QuickStrip?\nHow can I create and edit my settings?\nHow do I reset my computer to default settings?\nHow can I make a new Morphic key?\nHow can I use Morphic on my home computer?\nHow can I convert my documents?\nSee frequently asked questions (FAQs)"
     }
   ],
   "resizingConstraint": 63,

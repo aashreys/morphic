@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C08189F-D3C5-44E4-B179-BA7905825349",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40CF7FC3-E29B-49CA-839E-BE6655EA81E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1386A1D-8FA5-45D5-B861-8BF376313C85",
+    "height": 20.31249999999996,
+    "width": 212,
+    "x": 465,
+    "y": 20.31249999999996
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/text-input/focused",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00E7A9FD-57CF-419A-9D77-FEF5CD4D2218",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F14FA39-B287-4195-AD48-CEA2445D032C",
+  "verticalSpacing": 0
+}

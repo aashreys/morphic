@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.1215686274509804,
+            "green": 0.1215686274509804,
+            "red": 0.1215686274509804
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -52,7 +52,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 117,
+    "width": 116,
     "x": 48,
     "y": 48
   },
@@ -74,11 +74,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.9000000357627869
-    },
     "do_objectID": "533B8573-1347-41B3-9985-7FBB9AD38B15",
     "endMarkerType": 0,
     "miterLimit": 10,
@@ -89,9 +84,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1215686274509804,
+          "green": 0.1215686274509804,
+          "red": 0.1215686274509804
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

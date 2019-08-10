@@ -44,6 +44,12 @@
       "do_objectID": "25116D0F-412A-463E-821A-5CEF37D7BA1D",
       "overrideName": "271EF7C6-C93C-4AC3-A80B-65B05B6EC916_stringValue",
       "value": "Also works for apps that support Windows language settings. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8542FF06-F999-4348-A532-F3D3A22919A4",
+      "overrideName": "BCA034EA-39EB-4F31-AE88-3A43B575E3E0_stringValue",
+      "value": "Does not change the language in documents and files. \nYou may need to restart some apps to see the change. "
     }
   ],
   "resizingConstraint": 63,
