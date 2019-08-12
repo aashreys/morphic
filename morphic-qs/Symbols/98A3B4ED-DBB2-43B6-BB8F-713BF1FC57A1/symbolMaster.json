@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 690,
+  "changeIdentifier": 1278,
   "clippingMaskMode": 0,
   "do_objectID": "98A3B4ED-DBB2-43B6-BB8F-713BF1FC57A1",
   "exportOptions": {
@@ -27,17 +27,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "67C665B8-FF27-469B-9822-F4BCB47AF262",
-    "height": 20,
-    "width": 80,
-    "x": 0,
-    "y": 205
+    "height": 41,
+    "width": 138,
+    "x": 3865,
+    "y": 372
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "F1D39853-097C-473E-B91C-3C2915FCEBD5"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,8 +55,16 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E2A02127-7E07-49CA-A026-D47A1045622F"
+    },
+    {
+      "class": "text",
+      "id": "71F76AF1-28B7-4AC4-9186-0F7FF0821F61"
+    },
     {
       "class": "rectangle",
       "id": "81F6E225-3D56-42DF-902E-6948B9E2AB91"
@@ -76,7 +84,22 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "E2A02127-7E07-49CA-A026-D47A1045622F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "71F76AF1-28B7-4AC4-9186-0F7FF0821F61_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "81F6E225-3D56-42DF-902E-6948B9E2AB91_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "71F76AF1-28B7-4AC4-9186-0F7FF0821F61_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -94,7 +117,7 @@
       "overrideName": "5B12F2C8-5382-4855-8D86-2D1289314DA5_layerStyle"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

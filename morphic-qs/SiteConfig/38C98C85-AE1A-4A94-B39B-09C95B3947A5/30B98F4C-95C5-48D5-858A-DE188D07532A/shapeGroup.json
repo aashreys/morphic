@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2D819C99-8791-44DB-9A02-A4938245DC72",
-    "height": 3179,
+    "height": 1905,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -44,8 +44,8 @@
       "id": "D4BD9A21-2384-4189-838A-D5A5A64E5DEA"
     }
   ],
-  "name": "Combined Shape",
-  "nameIsFixed": false,
+  "name": "background",
+  "nameIsFixed": true,
   "resizingConstraint": 23,
   "resizingType": 0,
   "rotation": 0,

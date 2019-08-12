@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 97,
+        "length": 204,
         "location": 0
       }
     ],
-    "string": "We will read the uploaded file and update the settings below to match your current configuration."
+    "string": "If you upload your current SiteConfig file we will read the uploaded file and update the settings below to match your current configuration.  (Or you can start with the default settings and go from there)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1AE14178-E798-415E-97E7-8A9CEAB9B158",
-    "height": 14,
+    "height": 28,
     "width": 677,
     "x": 0,
     "y": 40
   },
-  "glyphBounds": "{{0, 3}, {446, 11}}",
+  "glyphBounds": "{{0, 2}, {671, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "We will read the upl",
+  "name": "If you upload your c",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

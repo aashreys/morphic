@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3EDA4404-5656-4A41-88FE-9FE8E9790902",
-    "height": 105,
+    "height": 140,
     "width": 677,
     "x": 381,
-    "y": 3031
+    "y": 1710
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -44,19 +44,15 @@
       "id": "469FC507-E933-4C28-94DB-B8581229234A"
     },
     {
-      "class": "text",
-      "id": "2CC99ED8-DE89-4AB8-B894-B0ABB72221A2"
-    },
-    {
       "class": "symbolInstance",
       "id": "374F0CFE-B3DE-4CB2-A436-B88E24142A69"
     },
     {
-      "class": "symbolInstance",
-      "id": "52B5F8F6-60BC-48DD-A171-1F7063A995CF"
+      "class": "text",
+      "id": "A8FD5606-7C36-479A-8CCD-5D8DEF80CCD2"
     }
   ],
-  "name": "2. Download SiteConfig",
+  "name": "3. Download SiteConfig",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

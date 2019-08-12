@@ -14,13 +14,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2.4336,
+  "fixedRadius": 3,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6512A54E-185D-4A36-8189-8168EB7E09D1",
-    "height": 20,
-    "width": 80,
+    "height": 24,
+    "width": 138,
     "x": 0,
     "y": 0
   },
@@ -33,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Input",
+  "name": "border",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 0,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2.4336,
+      "cornerRadius": 3,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2.4336,
+      "cornerRadius": 3,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2.4336,
+      "cornerRadius": 3,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2.4336,
+      "cornerRadius": 3,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -78,7 +78,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "1EBB0199-4138-4403-A0C1-7BBBC6E5D6BB",
@@ -88,7 +88,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "EDC5DA91-189E-4FBD-9DBD-31A75557047C",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 6.084000000000001,

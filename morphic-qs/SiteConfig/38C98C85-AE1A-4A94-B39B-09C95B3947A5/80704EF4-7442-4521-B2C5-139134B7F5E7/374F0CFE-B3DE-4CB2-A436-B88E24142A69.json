@@ -18,9 +18,9 @@
     "constrainProportions": false,
     "do_objectID": "233C0B39-CE8C-415C-B4F8-939A4528AE0F",
     "height": 29,
-    "width": 328,
+    "width": 212,
     "x": 0,
-    "y": 76
+    "y": 83
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -43,7 +43,7 @@
       "_class": "overrideValue",
       "do_objectID": "4014296A-3A7B-4013-BA55-0CE4D0858915",
       "overrideName": "6517047B-7515-40E9-B318-E193394D8D83_stringValue",
-      "value": "Download SiteConfigInstall.msi"
+      "value": "Download SiteConfig Installer"
     }
   ],
   "resizingConstraint": 63,

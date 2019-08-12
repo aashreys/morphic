@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B1D9A4A-BC43-4932-8F86-D15F9F2091CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3FA4B004-5BB5-4333-98A2-694BB962F3B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0AA7CC7F-A810-4A12-A82D-89C2A0B171C5",
+    "height": 41,
+    "width": 96,
+    "x": 107,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/text-input/focused",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "055F1A05-3BCE-47B6-901C-AEB9E61DB45E",
+      "overrideName": "7DA4F86E-B610-474B-85DC-D1BB154E82E2_symbolID",
+      "value": "1594AD1A-8D2C-4EEC-AF5F-2BA5AF4AFA8A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EDB61FB-065A-4821-A423-C8C36B76F075",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F14FA39-B287-4195-AD48-CEA2445D032C",
+  "verticalSpacing": 0
+}

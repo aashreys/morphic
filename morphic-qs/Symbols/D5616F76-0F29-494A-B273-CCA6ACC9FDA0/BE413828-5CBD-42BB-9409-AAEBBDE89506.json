@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2323652626811594,
-            "green": 0.2323652626811594,
-            "red": 0.2323652626811594
+            "blue": 1,
+            "green": 0.4745098039215686,
+            "red": 0.1607843137254902
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -67,11 +67,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "label",
+  "name": "machine name label",
   "nameIsFixed": true,
   "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "72DEF90F-E689-48C7-9E00-62E76E45C5D5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,14 +82,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "3C65C8AC-7AE9-4863-A330-1E290A99436F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2323652626811594,
-          "green": 0.2323652626811594,
-          "red": 0.2323652626811594
+          "blue": 1,
+          "green": 0.4745098039215686,
+          "red": 0.1607843137254902
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

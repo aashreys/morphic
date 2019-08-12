@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 400,
+        "length": 545,
         "location": 0
       }
     ],
-    "string": "Insert blurb about SiteConfig and what it does. Then explain what this website does and how it helps configure SiteConfig files. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor\n\nTo create and download a SiteConfig file for your Morphic installation complete the following steps in the sections below"
+    "string": "The SiteConfig Configurator is a tool for configuring your Morphic deployment at your site.\n\nThis tool will generate a SiteConfig file installer that will automatically configure your Morphic deployment with the settings you choose. These settings will be active on all computers under your deployment. \n\nYou can use different SiteConfig files for different groups of computers at your site. Just create a SiteConfig file for each group and install it on all computers in that group.\n\nTo create and deploy a SiteConfig file, follow these steps: "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "07AF0902-6A25-423D-9F40-751EF93D7B11",
-    "height": 56,
+    "height": 126,
     "width": 677,
     "x": 0,
     "y": 40
   },
-  "glyphBounds": "{{0, 3}, {646, 53}}",
+  "glyphBounds": "{{-1, 3}, {661, 123}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Insert blurb about S",
+  "name": "The SiteConfig Confi",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

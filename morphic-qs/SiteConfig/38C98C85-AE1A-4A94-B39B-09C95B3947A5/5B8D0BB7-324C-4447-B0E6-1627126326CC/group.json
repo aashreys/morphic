@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 91,
+    "height": 112,
     "width": 677,
     "x": 381,
-    "y": 266
+    "y": 383
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -45,8 +45,8 @@
       "id": "BD9FFD9F-6897-4904-849A-05E965EB82AE"
     }
   ],
-  "name": "Group 3",
-  "nameIsFixed": false,
+  "name": "1. Upload SiteConfig",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

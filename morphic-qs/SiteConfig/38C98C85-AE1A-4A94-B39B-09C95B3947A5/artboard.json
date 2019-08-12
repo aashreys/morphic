@@ -18,7 +18,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
         "scale": 2,
@@ -34,17 +34,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "67C4CE53-E98D-4541-9093-D7711517582D",
-    "height": 3491,
+    "height": 1935,
     "width": 1440,
-    "x": 1661,
-    "y": 1080
+    "x": 1647,
+    "y": 2652
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "99FDC1AA-E364-44E9-9168-027B191A1D03"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -72,32 +72,36 @@
       "id": "80704EF4-7442-4521-B2C5-139134B7F5E7"
     },
     {
-      "class": "group",
-      "id": "5B8D0BB7-324C-4447-B0E6-1627126326CC"
+      "class": "rectangle",
+      "id": "D33401FF-A8B6-4F96-9288-D2C0D3AEAE98"
     },
     {
       "class": "group",
       "id": "0785514D-802B-4F2B-9D76-98083EA2286D"
     },
     {
-      "class": "symbolInstance",
-      "id": "E71C08CB-1176-40E6-B525-CE1E27FFC8A1"
+      "class": "rectangle",
+      "id": "CD5A5EA1-A663-4163-88EA-1DDA0404CDAA"
     },
     {
-      "class": "symbolInstance",
-      "id": "B50B1CFB-C3F1-48C5-9489-66A6A3E2557D"
+      "class": "group",
+      "id": "5B8D0BB7-324C-4447-B0E6-1627126326CC"
     },
     {
-      "class": "text",
-      "id": "5313B08F-D987-4F86-97B2-E86E447A4E60"
+      "class": "rectangle",
+      "id": "59B3831E-F466-4DFF-89EE-FFF26D6D9395"
     },
     {
       "class": "group",
       "id": "E9256087-5957-499D-A9EC-458592BC3077"
     },
     {
-      "class": "shapePath",
-      "id": "CA3F77B3-B145-451F-B8B3-102353C5292C"
+      "class": "group",
+      "id": "1B79ABEE-F511-4379-98B7-3F2930DD1BD7"
+    },
+    {
+      "class": "rectangle",
+      "id": "ACB97B3F-B6BE-4037-BD25-7E5B163A2C7B"
     }
   ],
   "layout": {
@@ -116,7 +120,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1376
   },
-  "name": "SiteConfig-V1-1",
+  "name": "SiteConfig V1 / With Default Values",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -125,7 +129,7 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

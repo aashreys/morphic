@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B241632-C021-4B46-B984-061D3F916F4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E68DD00-E9D3-4C55-B250-4FFE74FA060C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E77F5C99-F75A-4E6F-872C-AFAB46124DCB",
+    "height": 64,
+    "width": 677,
+    "x": 45,
+    "y": 175
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SiteConfig / Elements / Setting Item Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4547433-90F0-4478-A8B1-EDE526614CB6",
+      "overrideName": "66024979-EF54-44FF-8C0A-FDE0F2DDBFDB_stringValue",
+      "value": "QuickStrip Button List"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "154BDB36-ABDA-48B8-A6A5-5BFB5AA47877",
+      "overrideName": "BEA5F695-D094-4960-ADAB-E7D78804C9AB/BE413828-5CBD-42BB-9409-AAEBBDE89506_stringValue",
+      "value": "buttonList"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D529B4C-F394-4EE4-BF80-0F62E4D9E147",
+      "overrideName": "1A10B01F-5A81-4073-9161-6653129C2E1C_symbolID",
+      "value": "5A64D92D-C49B-437C-9DB8-695935849D9C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "768430EF-2F5E-481C-972A-6466A4D6BFBA",
+      "overrideName": "E91FCD46-D1EA-4DB8-994B-5D417B92DB21_stringValue",
+      "value": "Determines which buttons are displayed, and in which order, on a QuickStrip. Customize this setting to control the functionality that is available to your users via the QuickStrip. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D320964A-4868-491A-A688-A9B204A7D0B4",
+      "overrideName": "1A10B01F-5A81-4073-9161-6653129C2E1C/FBD00EF0-35E4-482B-BAC8-0DF906984AD4/CEFB8BA2-289E-42A6-8A47-DA18372CE382_stringValue",
+      "value": "Configure QuickStrip Buttons"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E079D17-1E7E-46F0-BF1D-475941390FEE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F44A880-3A83-4ECE-AFCE-FA287BB0857D",
+  "verticalSpacing": 0
+}

@@ -24,15 +24,243 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "headIndent": 36,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 11,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 36,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 85,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 113,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 141,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 170,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 198,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 226,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 255,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 283,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 311,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 340,
+                "options": {
+                }
+              }
+            ],
+            "textLists": [
+              {
+                "_class": "textList",
+                "listOptions": 0,
+                "markerFormat": "{decimal}."
+              }
+            ]
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 86,
+        "length": 134,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1215686274509804,
+            "green": 0.1215686274509804,
+            "red": 0.1215686274509804
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 11
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "headIndent": 36,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 11,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 36,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 85,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 113,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 141,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 170,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 198,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 226,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 255,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 283,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 311,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 340,
+                "options": {
+                }
+              }
+            ],
+            "textLists": [
+              {
+                "_class": "textList",
+                "listOptions": 0,
+                "markerFormat": "{decimal}."
+              }
+            ]
+          }
+        },
+        "length": 53,
+        "location": 134
       }
     ],
-    "string": "Upload Current SiteConfig (Optional)\nConfigure SiteConfig Settings\nDownload SiteConfig"
+    "string": "\t1.\tUpload Current SiteConfig (Optional - you can start with defaults) \n\t2.\tConfigure SiteConfig Settings\n\t3.\tDownload new SiteConfig\n\t4.\tInstall it on all computers you want to configure"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +281,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6BD08658-30FE-444F-B8BB-E452EE965487",
-    "height": 42,
+    "height": 56,
     "width": 678,
     "x": 0,
-    "y": 100
+    "y": 178
   },
-  "glyphBounds": "{{0, 2}, {169, 40}}",
+  "glyphBounds": "{{11, 2}, {324, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -101,7 +329,108 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "headIndent": 36,
+          "tabStops": [
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 11,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 36,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 56,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 85,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 113,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 141,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 170,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 198,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 226,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 255,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 283,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 311,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 340,
+              "options": {
+              }
+            }
+          ],
+          "textLists": [
+            {
+              "_class": "textList",
+              "listOptions": 0,
+              "markerFormat": "{decimal}."
+            }
+          ]
         },
         "textStyleVerticalAlignmentKey": 0
       },

@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B29FB260-753B-45E7-9C65-A021CBF9322A",
-    "height": 142,
+    "height": 234,
     "width": 678,
     "x": 381,
     "y": 100
@@ -26,7 +26,7 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "D0E9DF32-0471-4251-A276-F6BE672B4C5D"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -48,7 +48,7 @@
       "id": "52537159-708C-4F10-9967-1522ACBF9729"
     }
   ],
-  "name": "1. Instructions",
+  "name": "0. Instructions",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

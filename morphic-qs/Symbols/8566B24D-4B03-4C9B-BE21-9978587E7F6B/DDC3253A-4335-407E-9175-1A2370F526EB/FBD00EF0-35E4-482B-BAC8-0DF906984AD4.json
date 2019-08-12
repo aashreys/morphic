@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBD00EF0-35E4-482B-BAC8-0DF906984AD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8042AA69-8CFB-41FB-86D4-C200EB479B5A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "95D2F688-5665-4DB6-9E6E-634081C34A2A",
+    "height": 29,
+    "width": 212,
+    "x": 0,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "control",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF344A8C-1753-4FEA-A6BD-CB570A34ACC8",
+      "overrideName": "F9377067-636F-44C0-BCDC-A48682299176_symbolID",
+      "value": "72A39005-4ED0-40DD-ADD5-650F6D19C24C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB521F01-8CB2-42BD-AAB1-1568495C64D0",
+      "overrideName": "CEFB8BA2-289E-42A6-8A47-DA18372CE382_stringValue",
+      "value": "Configure QuickStrip Buttons"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B3A9DF1-4718-4BE9-B4FC-E43281000AB8",
+      "overrideName": "7CE576C2-750A-49EF-89C3-52D6071D7F5F_layerStyle",
+      "value": "B27A6204-2267-4346-94A6-6AAB2F7F4FC1"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9C9A65F-E99D-403F-8421-75CDD508C0F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2293F8A7-BC04-4148-8B8F-224BE33A7295",
+  "verticalSpacing": 0
+}

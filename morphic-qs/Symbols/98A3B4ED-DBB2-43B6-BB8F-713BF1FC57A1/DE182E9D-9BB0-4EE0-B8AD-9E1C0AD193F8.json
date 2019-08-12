@@ -54,9 +54,9 @@
     "constrainProportions": false,
     "do_objectID": "EAE86F34-FE73-4888-8416-5B9C6F934317",
     "height": 14,
-    "width": 60,
-    "x": 4,
-    "y": 3
+    "width": 126,
+    "x": 6,
+    "y": 5
   },
   "glyphBounds": "{{0, 3}, {60, 9}}",
   "hasClippingMask": false,
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 2,
   "name": "text",
   "nameIsFixed": true,
-  "resizingConstraint": 42,
+  "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "30AD9320-9DAA-4A2E-818F-CFD5EE92E6E2",
@@ -110,5 +110,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

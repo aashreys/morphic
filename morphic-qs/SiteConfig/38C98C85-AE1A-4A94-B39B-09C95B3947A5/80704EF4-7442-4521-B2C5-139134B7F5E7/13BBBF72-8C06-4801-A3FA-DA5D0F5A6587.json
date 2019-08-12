@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 22,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "3. Download SiteConfig"
+    "string": "3. Download New SiteConfig"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "73927FA1-93F4-4C37-B661-FDDA92CBAFB6",
     "height": 28,
-    "width": 221,
+    "width": 269,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {221, 23}}",
+  "glyphBounds": "{{0, 5}, {268, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "3. Download SiteConf",
+  "name": "3. Download New Site",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

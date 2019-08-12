@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F09ED6D8-DB58-487A-BE8B-5FF2FB6A8E86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08F38FD9-C6AB-49BD-B08D-137FDD1FFBEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "149970F9-AA4F-41CF-9805-7C72791131C8",
+    "height": 29,
+    "width": 212,
+    "x": 0,
+    "y": 83
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/rectangle/title-only copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5271DC6E-966D-4566-B7A5-BAA1AD2F2987",
+      "overrideName": "664C7258-2B5F-4A68-A0D0-E2693672AD95_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4014296A-3A7B-4013-BA55-0CE4D0858915",
+      "overrideName": "6517047B-7515-40E9-B318-E193394D8D83_stringValue",
+      "value": "Download SiteConfig Installer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC3FE1C9-BCF6-4372-A609-BD0A7A19D928",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8EAAB03-293E-478E-B3F1-3C15A5D34CFD",
+  "verticalSpacing": 0
+}

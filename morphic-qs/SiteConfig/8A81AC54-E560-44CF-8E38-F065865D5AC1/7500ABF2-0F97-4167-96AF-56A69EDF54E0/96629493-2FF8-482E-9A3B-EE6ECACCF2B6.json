@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96629493-2FF8-482E-9A3B-EE6ECACCF2B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CED85C3F-8A73-43B1-BF51-3B030E6EBE9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FC1C622-4002-4CEC-9280-8E2F4DFC72D5",
+    "height": 64,
+    "width": 677,
+    "x": 45,
+    "y": 627
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SiteConfig / Elements / Setting Item Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4547433-90F0-4478-A8B1-EDE526614CB6",
+      "overrideName": "66024979-EF54-44FF-8C0A-FDE0F2DDBFDB_stringValue",
+      "value": "Disable Restart Warnings for Apps"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "154BDB36-ABDA-48B8-A6A5-5BFB5AA47877",
+      "overrideName": "BEA5F695-D094-4960-ADAB-E7D78804C9AB/BE413828-5CBD-42BB-9409-AAEBBDE89506_stringValue",
+      "value": "disableRestartWarning"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D529B4C-F394-4EE4-BF80-0F62E4D9E147",
+      "overrideName": "1A10B01F-5A81-4073-9161-6653129C2E1C_symbolID",
+      "value": "E0D50CFA-A91B-47FA-9C10-05E53A25462B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "768430EF-2F5E-481C-972A-6466A4D6BFBA",
+      "overrideName": "E91FCD46-D1EA-4DB8-994B-5D417B92DB21_stringValue",
+      "value": "Disables warnings which inform users to restart their apps in order for a changed settings to be fully applied. For example, this notification is usually displayed for the Language setting. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17FD1D46-AED5-40C6-B3FB-5B32D222CD7C",
+      "overrideName": "1A10B01F-5A81-4073-9161-6653129C2E1C/82755F34-773F-4F80-AD57-D2D364F6AD27/06543599-DA80-4E06-A8EA-96196F993C2E/37A2B31B-1320-4FFF-A9F5-D2675FF2E1D7_stringValue",
+      "value": "Enabled"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8813ACAC-3891-4FB0-AAB4-F25DB3BCFA4C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F44A880-3A83-4ECE-AFCE-FA287BB0857D",
+  "verticalSpacing": 0
+}

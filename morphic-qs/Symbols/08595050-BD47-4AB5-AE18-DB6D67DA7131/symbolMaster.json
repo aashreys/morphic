@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 57,
   "clippingMaskMode": 0,
   "do_objectID": "08595050-BD47-4AB5-AE18-DB6D67DA7131",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 138,
-    "x": 9497,
-    "y": -102
+    "x": 3527,
+    "y": 124
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "35BF1437-9269-4F86-8056-A05365A04CCE"
     }
   ],
-  "name": "form/dropdown",
-  "nameIsFixed": false,
+  "name": "Form / Dropdown / Closed / xBase",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

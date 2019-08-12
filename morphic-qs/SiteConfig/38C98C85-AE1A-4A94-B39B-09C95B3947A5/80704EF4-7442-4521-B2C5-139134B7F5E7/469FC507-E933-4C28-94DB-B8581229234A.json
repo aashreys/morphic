@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 92,
+        "length": 179,
         "location": 0
       }
     ],
-    "string": "Automatically set up SiteConfig on your Morphic installation with the SiteConfig Installer. "
+    "string": "To install the SiteConfig File, download the installation script below and double-click the downloaded file. The SiteConfig file will be automatically installed on your computer. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "F7647708-907B-4D64-A4DD-6BEA1D1EDB5B",
     "height": 28,
-    "width": 328,
+    "width": 677,
     "x": 0,
     "y": 40
   },
-  "glyphBounds": "{{0, 3}, {315, 25}}",
+  "glyphBounds": "{{0, 3}, {669, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Automatically set up",
+  "name": "To install the SiteC",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }
